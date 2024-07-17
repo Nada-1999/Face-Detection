@@ -9,7 +9,9 @@ This project focuses on developing a real-time face detection application using 
 
 # Technologies and Tools:
 Programming Language: Python
+
 Libraries: OpenCV
+
 Development Environment: Any Python IDE (e.g., PyCharm, VS Code, Jupyter Notebook)
 
 # Implementation Steps:
@@ -21,5 +23,7 @@ Development Environment: Any Python IDE (e.g., PyCharm, VS Code, Jupyter Noteboo
 
 # Outcomes:
 A real-time face detection application that processes video feed from a webcam and visually highlights detected faces.
+
 Practical experience with OpenCV's face detection capabilities using Haar Cascade Classifiers.
+
 Understanding the process of real-time video processing and performance optimization.
